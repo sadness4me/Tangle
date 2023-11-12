@@ -20,8 +20,10 @@ If you get a similar result, then everything is great:
 As soon as a place among the validators becomes available, you will appear in the Staking Overview tab, but for now you can find yourself on the Waiting tab.
 
 # Backup your validator node
+**IMPORTANT** - save the keys located in 
 ```
-Keep the keys located in and $HOME/.tangle/node-key$HOME/.tangle/data/chains/tangle-standalone-testnet/keystore/
+$HOME/.tangle/data/chains/tangle-standalone-testnet/keystore/
+$HOME/.tangle/node-key
 ```
 
 # Delete your node
